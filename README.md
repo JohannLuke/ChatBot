@@ -7,7 +7,6 @@ This project is a chatbot built using **Streamlit** and **LangChain**, supportin
 - 🔍 Extracts and processes text into **vector embeddings** using FAISS.
 - 💬 Supports chat-based interactions with AI.
 - 🔄 Maintains conversation history and truncates messages for efficiency.
-- 💡  Built with Streamlit & LangChain
 
 ## Installation
 Ensure you have Python installed (preferably **Python 3.8+**). Then, install the required dependencies:
