@@ -18,7 +18,7 @@ from langchain.chains import create_retrieval_chain
 
 ############################## Functions ################################
 max_tokens = 8192
-api_key = "your api key"
+api_key = "your_api_key"
 
 # Function to truncate messages to fit within the token limit
 def truncate_messages(messages, max_tokens):
